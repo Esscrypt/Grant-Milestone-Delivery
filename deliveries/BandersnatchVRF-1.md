@@ -28,7 +28,7 @@
 **Usage instructions:**
 - [README bandersnatch](https://github.com/Esscrypt/bandersnatch/tree/main)
 - [README bandersnatch-vrf](https://github.com/Esscrypt/bandersnatch-vrf/tree/main)
-1 `bun install @pbnjam/bandersnatch`
-2.`bun install @pbnjam/bandersnatch-vrf`
+1 `bun add @pbnjam/bandersnatch@0.7.2-rc2`
+2.`bun add @pbnjam/bandersnatch-vrf@0.7.2-rc9`
 
 
